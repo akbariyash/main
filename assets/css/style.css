@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #37b3ed;
+  color: black;
   text-decoration: none;
 }
 
@@ -608,11 +608,11 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: rgba(20, 157, 221, 0.95);
+  background: black(20, 157, 221, 0.95);
 }
 
 .portfolio .portfolio-wrap .portfolio-links a+a {
-  border-left: 1px solid #37b3ed;
+  border-left: 1px solid black;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -1011,7 +1011,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #37b3ed;
+  background: black;
 }
 
 @keyframes animate-loading {
