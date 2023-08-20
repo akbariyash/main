@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #2eafec;
+  background: black ;
   color: #fff;
 }
 
@@ -215,7 +215,7 @@ h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #149ddd;
+  background-color: black;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -1011,7 +1011,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: black;
+  background: black ;
 }
 
 @keyframes animate-loading {
